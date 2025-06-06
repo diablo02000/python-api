@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.13
+# syntax=docker/dockerfile:1.16
 FROM python:3.13-slim
 
 RUN useradd -r python
